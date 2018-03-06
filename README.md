@@ -1,1 +1,2 @@
-# edyst-65228100fcab57547d1c52f46aaa9464
+# Placement Bootcamp 2017
+Repository Maintainer: kalagarla.venkatesh@gmail.com
